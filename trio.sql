@@ -1,1 +1,2 @@
 ---CREATE KA DATABASE
+-- sige sige
